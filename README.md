@@ -1,7 +1,7 @@
 # Projeto Game of Thrones
 Versão feita por mim, baseada na última edição do evento Semana do 0 ao Programador Contratado, realizado pelo Dev em Dobro. 
 
-<img src="./imagem-readme-got.gif" alt="página inicial do DevQuest">
+<img src="imagem-readme-got.gif" alt="página inicial do DevQuest">
 
 ## Tecnologias utilizadas
 Esta página é composta por HTML, CSS e JavaScript.
