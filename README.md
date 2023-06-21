@@ -7,7 +7,7 @@ Versão feita por mim, baseada na última edição do evento Semana do 0 ao Prog
 Esta página é composta por HTML, CSS e JavaScript.
 
 ## Desafios pessoais 
-Com orientação direta da equipe, através das aulas em live, para a criação de uma página, me propus a criar uma nova página, bem similar à desenvolvida, com adaptações à temática escolhida e pequenos problemas de layout que apareceram.
+Com orientação direta da equipe, através das aulas em live, para a criação de uma página, me propus a criar uma nova página, bem similar à desenvolvida, com adaptações à temática escolhida e resolução de pequenos problemas de layout que apareceram.
 
 Como ainda estou no início do meu curso, consegui montar a página de HTML completa. 
 
